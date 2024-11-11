@@ -1,4 +1,4 @@
-#Traductor
+jh#Traductor
 print("Hola, Bienvenido a este superincreible traductor")
 print("-----------Traductor de saludos-----------")
 print("Opciones:")
